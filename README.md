@@ -1,52 +1,53 @@
-# Hi, I'm Rudy Haddad 👋
+<div align="center">
 
-**Computer Science student** @ Sami Shamoon College of Engineering · Ashdod, Israel 🇮🇱
+# Rudy Haddad
 
----
+**Software Engineer · AI Systems · Full-Stack · Automation**
 
-## About me
+[![Email](https://img.shields.io/badge/rudyhaddad.job@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rudyhaddad.job@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudy-haddad)
 
-- 🎓 Studying Computer Science at **SCE – Sami Shamoon College of Engineering**
-- 💻 Passionate about **C / systems programming** and building real-world applications
-- 📚 Always learning — currently diving deeper into algorithms, data structures & software engineering
-- 🌍 Based in **Israel** (Tel Aviv area)
+</div>
 
 ---
 
-## 🛠️ Tech stack
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-## 📂 Featured project
-
-### [finalprojectC](https://github.com/rudy002/finalprojectC)
-> A **job portal system** built in C — lets users register, search, and publish job listings.  
-> Built as part of a team project at SCE (Dec 2021).
-
-**Team:** Shoam Moyal · Keren Or Cohen · Rudy Haddad · Hodaya Einy · Neorai Hagag · Valery
+```python
+rudy = {
+    "focus":    ["AI-powered systems", "Automation", "Full-Stack"],
+    "stack":    ["Next.js", "Node.js", "Python", "TypeScript"],
+    "AI":       ["RAG pipelines", "LLMs", "n8n", "Pinecone", "Supabase"],
+    "db":       ["MongoDB", "PostgreSQL", "Supabase"],
+    "vibe":     "ship fast, automate everything 🚀"
+}
+```
 
 ---
 
-## 📈 GitHub stats
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudy002&show_icons=true&theme=default&hide_border=true" alt="Rudy's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudy002&layout=compact&theme=default&hide_border=true" alt="Top languages" height="150"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-## 📬 Contact
+## 📊 Stats
 
-Feel free to reach out or connect!
-
-[![GitHub](https://img.shields.io/badge/GitHub-rudy002-181717?style=flat-square&logo=github)](https://github.com/rudy002)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudy002&show_icons=true&theme=tokyonight&hide_border=true&hide=stars&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudy002&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150"/>
+</div>
 
 ---
 
-*README generated with ❤️ — May 2026*
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rudy002&style=flat-square&color=blue" alt="profile views"/>
+</div>
