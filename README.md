@@ -46,10 +46,34 @@ const rudy = {
 
 ---
 
+### 🏆 Trophées
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rudy002&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rudy002&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+</div>
+
+---
+
+### 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudy002&theme=tokyo-night&hide_border=true" alt="activity graph"/>
+</div>
+
+---
+
+### 🐍 Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rudy002/rudy002/output/github-snake-dark.svg" alt="snake animation" />
 </div>
 
 ---
