@@ -1,93 +1,52 @@
-### <div align="left">Hi !I'm Rudy, Student Software Engineering 👨‍💻  since 2020 🚀</div>  
+# Hi, I'm Rudy Haddad 👋
 
-<div align="right">
-<img src="https://raw.githubusercontent.com/rudy002/rudy002/6f21f450756798386130e83a428b23b45d4a769c/giphy.gif" align="left" style="width: 50%" />
-</div>  
-  
+**Computer Science student** @ Sami Shamoon College of Engineering · Ashdod, Israel 🇮🇱
 
-- 🔭 I’m currently Studing in Sami Shamoon College 🎓  
-  
+---
 
-- 🌱 I’m currently learning Solidity and JavaScript  
-  
+## About me
 
-- ❓ feel free to ask me something ! rudyhaddad.job@gmail.com 📬  
-  
+- 🎓 Studying Computer Science at **SCE – Sami Shamoon College of Engineering**
+- 💻 Passionate about **C / systems programming** and building real-world applications
+- 📚 Always learning — currently diving deeper into algorithms, data structures & software engineering
+- 🌍 Based in **Israel** (Tel Aviv area)
 
-- ⚡ Life Hack : Traveler Addict 🛩️  
-  
+---
 
-<br/>  
+## 🛠️ Tech stack
 
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## My Skill Set  
+---
 
+## 📂 Featured project
 
+### [finalprojectC](https://github.com/rudy002/finalprojectC)
+> A **job portal system** built in C — lets users register, search, and publish job listings.  
+> Built as part of a team project at SCE (Dec 2021).
 
-### Languages and Tools  
-<div align="left">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-</div>
+**Team:** Shoam Moyal · Keren Or Cohen · Rudy Haddad · Hodaya Einy · Neorai Hagag · Valery
 
-</td><td valign="top" width="33%">
+---
 
+## 📈 GitHub stats
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudy002&show_icons=true&theme=default&hide_border=true" alt="Rudy's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudy002&layout=compact&theme=default&hide_border=true" alt="Top languages" height="150"/>
+</p>
 
-</td><td valign="top" width="33%">
+---
 
+## 📬 Contact
 
+Feel free to reach out or connect!
 
-</td></tr></table>  
+[![GitHub](https://img.shields.io/badge/GitHub-rudy002-181717?style=flat-square&logo=github)](https://github.com/rudy002)
 
-<br/>  
+---
 
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/rudy002" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/rudyhaddad02" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rudy-haddad-749999189/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudy002&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rudy002&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
+*README generated with ❤️ — May 2026*
